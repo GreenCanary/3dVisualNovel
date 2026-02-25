@@ -1,7 +1,15 @@
 fileFormatVersion: 2
-guid: bc268dd38e22dbe47b132c3112dd6e40
+guid: 0f30b31df1c21274da0aa193ec9e46e6
+timeCreated: 1516474242
+licenseType: Store
 DefaultImporter:
-  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121360
+  packageName: Modular Castle
+  packageVersion: 1.0
+  assetPath: Assets/Modular Castle/DemoScene/castleDemo.unity
+  uploadId: 255539
