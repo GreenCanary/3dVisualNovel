@@ -2,13 +2,19 @@ using UnityEngine;
 
 public class DoNotDestroy : MonoBehaviour
 {
-  private void Awake()
+    private static DoNotDestroy _instance;
+
+    private void Awake()
     {
-        GameObject[] musicObj = GameObject.FindGameObjectsWithTag("GameMusic");
-        if(musicObj.Length > 1)
+        // Если экземпляр уже существует — уничтожаем текущий объект
+        if (_instance != null && _instance != this)
         {
-            Destroy(this.gameObject);
+            Destroy(gameObject);
+            return;
         }
-        DontDestroyOnLoad(this.gameObject);
+
+        // Устанавливаем текущий объект как единственный экземпляр
+        _instance = this;
+        DontDestroyOnLoad(gameObject);
     }
 }
