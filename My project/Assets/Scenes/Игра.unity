@@ -2653,7 +2653,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b32156b270183d40b94315e82932c96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::name1
-  npcName: Jimmy
+  npcName: "\u041E\u0433\u0438\u043B\u0432\u0438"
   tagHeight: 2.6
   fontSize: 3
 --- !u!65 &104033747
@@ -4318,7 +4318,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 8d3fb2b7b2efad44f9324aafa8ec532b, type: 2}
     - target: {fileID: 919132149155446097, guid: ab7437c47894cb54d845cb3f2a83e3c0, type: 3}
       propertyPath: m_Name
-      value: Peter
+      value: "\u0423\u043E\u0440\u0440\u0435\u043D \u0422\u0440\u0435\u043D\u0442 "
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18321,7 +18321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b32156b270183d40b94315e82932c96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  npcName: Nick
+  npcName: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430 \u0424\u0440\u044D\u043D\u0441\u0438\u0441"
   tagHeight: 2.75
   fontSize: 3
 --- !u!65 &613014188
@@ -18515,7 +18515,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d1fbc096a6f62ea458a4555b88c96ac2, type: 3}
       propertyPath: m_Name
-      value: Bill
+      value: "\u0425\u0435\u0440\u0431\u0438 \u0427\u044D\u043D\u0434\u043B\u0435\u0440"
       objectReference: {fileID: 0}
     - target: {fileID: 7292354076716863041, guid: d1fbc096a6f62ea458a4555b88c96ac2, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
@@ -19297,7 +19297,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b32156b270183d40b94315e82932c96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::name1
-  npcName: Peter
+  npcName: "\u0423\u043E\u0440\u0440\u0435\u043D \u0422\u0440\u0435\u043D\u0442 "
   tagHeight: 2.7
   fontSize: 3
 --- !u!65 &638287097
@@ -19475,7 +19475,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8242b18fc7252af44a453bcfefda7e7c, type: 3}
       propertyPath: m_Name
-      value: Nick
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430 \u0424\u0440\u044D\u043D\u0441\u0438\u0441"
       objectReference: {fileID: 0}
     - target: {fileID: 7657448165645970142, guid: 8242b18fc7252af44a453bcfefda7e7c, type: 3}
       propertyPath: 'm_Materials.Array.data[9]'
@@ -27193,7 +27193,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: daf568f51c2fa264691d172eec050e32, type: 3}
       propertyPath: m_Name
-      value: Jimmy
+      value: "\u041E\u0433\u0438\u043B\u0432\u0438"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27885,7 +27885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b32156b270183d40b94315e82932c96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::name1
-  npcName: Bill
+  npcName: "\u0425\u0435\u0440\u0431\u0438 \u0427\u044D\u043D\u0434\u043B\u0435\u0440"
   tagHeight: 2.8
   fontSize: 3
 --- !u!65 &825831506
@@ -58437,7 +58437,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 89ec959954575f94b93e606fff2cb187, type: 3}
       propertyPath: m_Name
-      value: Alex
+      value: "\u0410\u043B\u043E\u0438\u0441\u0438\u0443\u0441 \u0420\u043E\u0439\u0441"
       objectReference: {fileID: 0}
     - target: {fileID: 1763701023828521004, guid: 89ec959954575f94b93e606fff2cb187, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -61155,7 +61155,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 68a28e8d45be2bc458387c8031168835, type: 2}
     - target: {fileID: 919132149155446097, guid: f533123257178bd439afd8d43ab42434, type: 3}
       propertyPath: m_Name
-      value: Mike
+      value: "\u041F\u0438\u0442\u0435\u0440 \u041C\u0430\u043A\u0434\u0435\u0440\u043C\u043E\u0442\u0442 "
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -65557,7 +65557,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b32156b270183d40b94315e82932c96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::name1
-  npcName: Mike
+  npcName: "\u041F\u0438\u0442\u0435\u0440 \u041C\u0430\u043A\u0434\u0435\u0440\u043C\u043E\u0442\u0442 "
   tagHeight: 2.7
   fontSize: 3
 --- !u!65 &1760974649
@@ -67430,7 +67430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b32156b270183d40b94315e82932c96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::name1
-  npcName: Alex
+  npcName: "\u0410\u043B\u043E\u0438\u0441\u0438\u0443\u0441 \u0420\u043E\u0439\u0441"
   tagHeight: 2.72
   fontSize: 3
 --- !u!65 &1804506259
